@@ -1,0 +1,19 @@
+{
+  "name": "j30-challenge",
+  "version": "1.0.0",
+  "description": "Javascript 30 Day Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmcmillian/J30-Challenge.git"
+  },
+  "author": "Quentin McMillian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qmcmillian/J30-Challenge/issues"
+  },
+  "homepage": "https://github.com/qmcmillian/J30-Challenge#readme"
+}
